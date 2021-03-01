@@ -1,0 +1,65 @@
+body {
+  color: #333;
+  margin: 0;
+  text-align: center;
+  line-height: 1.6;
+  font-size: 1.6rem;
+  font-family: "Akaya Kanadaka", cursive;
+}
+
+.smallf {
+  font-size: 18px;
+}
+
+#main {
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #eee;
+}
+
+figure {
+  background-color: white;
+  margin: 20px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  border-radius: 7px;
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+}
+
+figcaption {
+  display: block;
+}
+
+ul {
+  list-style-position: inside;
+  text-align: left;
+  padding-left: 370px;
+  max-width: 600px;
+  margin: 0 auto 50 auto;
+  line-height: 1.7;
+}
+
+li {
+  margin: 17px 0;
+  font-size: 1.2rem;
+}
+
+p {
+  display: block;
+}
+
+blockquote {
+  font-style: italic;
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+}
+
+#tribute-link {
+  text-decoration: none;
+  color: black;
+}
